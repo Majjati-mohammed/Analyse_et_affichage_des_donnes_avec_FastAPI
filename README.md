@@ -26,7 +26,9 @@ L’application permet :
 ## Lancer le serveur
 
 ```bash
+pip install -r requirements.txt
 
+Lancer le serveur
 uvicorn main:app --reload
 Le serveur sera accessible sur http://127.0.0.1:8000
 
@@ -36,13 +38,7 @@ Endpoints API :
 
 /model : endpoint POST pour la prédiction de salaire
 
----
 
-## Installation des dépendances
-
-```bash
-pip install -r requirements.txt
-Lancer le serveur
 
 
 
