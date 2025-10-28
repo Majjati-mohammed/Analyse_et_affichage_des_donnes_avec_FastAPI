@@ -31,6 +31,7 @@ pip install -r requirements.txt
 Lancer le serveur
 
 ---
+## Lancer le serveur
 
 ```bash
 
@@ -42,4 +43,5 @@ Endpoints API :
 /data : données des employés (JSON)
 
 /model : endpoint POST pour la prédiction de salaire
+
 
