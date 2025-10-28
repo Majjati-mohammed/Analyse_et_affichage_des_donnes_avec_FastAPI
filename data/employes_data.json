@@ -1,0 +1,902 @@
+[
+  {
+    "age": 36,
+    "experience": 13,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 41,
+    "secteur": "Éducation",
+    "ville": "Fès",
+    "revenu": 14051
+  },
+  {
+    "age": 55,
+    "experience": 35,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 46,
+    "secteur": "Finance",
+    "ville": "Casablanca",
+    "revenu": 14914
+  },
+  {
+    "age": 24,
+    "experience": 2,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 48,
+    "secteur": "Éducation",
+    "ville": "Casablanca",
+    "revenu": 5000
+  },
+  {
+    "age": 55,
+    "experience": 34,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 49,
+    "secteur": "Finance",
+    "ville": "Marrakech",
+    "revenu": 13220
+  },
+  {
+    "age": 44,
+    "experience": 23,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 39,
+    "secteur": "Éducation",
+    "ville": "Casablanca",
+    "revenu": 12115
+  },
+  {
+    "age": 29,
+    "experience": 8,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 48,
+    "secteur": "Informatique",
+    "ville": "Rabat",
+    "revenu": 7627
+  },
+  {
+    "age": 55,
+    "experience": 35,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 43,
+    "secteur": "Informatique",
+    "ville": "Rabat",
+    "revenu": 15000
+  },
+  {
+    "age": 41,
+    "experience": 19,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 48,
+    "secteur": "Recherche",
+    "ville": "Agadir",
+    "revenu": 9981
+  },
+  {
+    "age": 35,
+    "experience": 15,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 47,
+    "secteur": "Éducation",
+    "ville": "Fès",
+    "revenu": 5829
+  },
+  {
+    "age": 53,
+    "experience": 31,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 43,
+    "secteur": "Informatique",
+    "ville": "Casablanca",
+    "revenu": 12507
+  },
+  {
+    "age": 45,
+    "experience": 23,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 49,
+    "secteur": "Vente",
+    "ville": "Agadir",
+    "revenu": 12756
+  },
+  {
+    "age": 38,
+    "experience": 15,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 36,
+    "secteur": "Informatique",
+    "ville": "Marrakech",
+    "revenu": 10776
+  },
+  {
+    "age": 54,
+    "experience": 32,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 47,
+    "secteur": "Finance",
+    "ville": "Casablanca",
+    "revenu": 15000
+  },
+  {
+    "age": 43,
+    "experience": 21,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 35,
+    "secteur": "Recherche",
+    "ville": "Fès",
+    "revenu": 10926
+  },
+  {
+    "age": 31,
+    "experience": 9,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 40,
+    "secteur": "Informatique",
+    "ville": "Marrakech",
+    "revenu": 6082
+  },
+  {
+    "age": 32,
+    "experience": 12,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 48,
+    "secteur": "Finance",
+    "ville": "Rabat",
+    "revenu": 8010
+  },
+  {
+    "age": 29,
+    "experience": 6,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 41,
+    "secteur": "Éducation",
+    "ville": "Casablanca",
+    "revenu": 7739
+  },
+  {
+    "age": 50,
+    "experience": 29,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 46,
+    "secteur": "Recherche",
+    "ville": "Casablanca",
+    "revenu": 13809
+  },
+  {
+    "age": 44,
+    "experience": 24,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 44,
+    "secteur": "Finance",
+    "ville": "Marrakech",
+    "revenu": 15000
+  },
+  {
+    "age": 45,
+    "experience": 25,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 36,
+    "secteur": "Informatique",
+    "ville": "Tanger",
+    "revenu": 13034
+  },
+  {
+    "age": 35,
+    "experience": 12,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 36,
+    "secteur": "Finance",
+    "ville": "Fès",
+    "revenu": 7190
+  },
+  {
+    "age": 33,
+    "experience": 13,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 43,
+    "secteur": "Finance",
+    "ville": "Casablanca",
+    "revenu": 11599
+  },
+  {
+    "age": 27,
+    "experience": 5,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 37,
+    "secteur": "Éducation",
+    "ville": "Casablanca",
+    "revenu": 5086
+  },
+  {
+    "age": 39,
+    "experience": 19,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 37,
+    "secteur": "Finance",
+    "ville": "Rabat",
+    "revenu": 9801
+  },
+  {
+    "age": 41,
+    "experience": 19,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 40,
+    "secteur": "Éducation",
+    "ville": "Casablanca",
+    "revenu": 10336
+  },
+  {
+    "age": 37,
+    "experience": 14,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 40,
+    "secteur": "Recherche",
+    "ville": "Fès",
+    "revenu": 10556
+  },
+  {
+    "age": 51,
+    "experience": 28,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 38,
+    "secteur": "Finance",
+    "ville": "Marrakech",
+    "revenu": 14929
+  },
+  {
+    "age": 48,
+    "experience": 26,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 37,
+    "secteur": "Éducation",
+    "ville": "Agadir",
+    "revenu": 15000
+  },
+  {
+    "age": 51,
+    "experience": 29,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 47,
+    "secteur": "Vente",
+    "ville": "Agadir",
+    "revenu": 13263
+  },
+  {
+    "age": 28,
+    "experience": 8,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 41,
+    "secteur": "Vente",
+    "ville": "Rabat",
+    "revenu": 7083
+  },
+  {
+    "age": 39,
+    "experience": 19,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 40,
+    "secteur": "Éducation",
+    "ville": "Rabat",
+    "revenu": 10096
+  },
+  {
+    "age": 25,
+    "experience": 5,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 38,
+    "secteur": "Informatique",
+    "ville": "Agadir",
+    "revenu": 7236
+  },
+  {
+    "age": 40,
+    "experience": 18,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 47,
+    "secteur": "Informatique",
+    "ville": "Casablanca",
+    "revenu": 9503
+  },
+  {
+    "age": 36,
+    "experience": 13,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 50,
+    "secteur": "Industrie",
+    "ville": "Agadir",
+    "revenu": 8525
+  },
+  {
+    "age": 24,
+    "experience": 3,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 47,
+    "secteur": "Recherche",
+    "ville": "Fès",
+    "revenu": 8033
+  },
+  {
+    "age": 38,
+    "experience": 18,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 48,
+    "secteur": "Finance",
+    "ville": "Marrakech",
+    "revenu": 10358
+  },
+  {
+    "age": 44,
+    "experience": 23,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 41,
+    "secteur": "Industrie",
+    "ville": "Fès",
+    "revenu": 11553
+  },
+  {
+    "age": 34,
+    "experience": 12,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 43,
+    "secteur": "Éducation",
+    "ville": "Casablanca",
+    "revenu": 10637
+  },
+  {
+    "age": 32,
+    "experience": 10,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 48,
+    "secteur": "Informatique",
+    "ville": "Fès",
+    "revenu": 11646
+  },
+  {
+    "age": 55,
+    "experience": 33,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 37,
+    "secteur": "Éducation",
+    "ville": "Marrakech",
+    "revenu": 15000
+  },
+  {
+    "age": 44,
+    "experience": 24,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 50,
+    "secteur": "Industrie",
+    "ville": "Tanger",
+    "revenu": 11634
+  },
+  {
+    "age": 54,
+    "experience": 32,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 37,
+    "secteur": "Vente",
+    "ville": "Fès",
+    "revenu": 12128
+  },
+  {
+    "age": 47,
+    "experience": 26,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 35,
+    "secteur": "Industrie",
+    "ville": "Marrakech",
+    "revenu": 12414
+  },
+  {
+    "age": 40,
+    "experience": 19,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 50,
+    "secteur": "Informatique",
+    "ville": "Casablanca",
+    "revenu": 10104
+  },
+  {
+    "age": 29,
+    "experience": 6,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 49,
+    "secteur": "Vente",
+    "ville": "Casablanca",
+    "revenu": 6457
+  },
+  {
+    "age": 28,
+    "experience": 7,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 38,
+    "secteur": "Recherche",
+    "ville": "Tanger",
+    "revenu": 6686
+  },
+  {
+    "age": 27,
+    "experience": 4,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 35,
+    "secteur": "Informatique",
+    "ville": "Agadir",
+    "revenu": 7554
+  },
+  {
+    "age": 42,
+    "experience": 21,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 40,
+    "secteur": "Recherche",
+    "ville": "Tanger",
+    "revenu": 10018
+  },
+  {
+    "age": 38,
+    "experience": 18,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 47,
+    "secteur": "Industrie",
+    "ville": "Casablanca",
+    "revenu": 10550
+  },
+  {
+    "age": 40,
+    "experience": 17,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 42,
+    "secteur": "Recherche",
+    "ville": "Agadir",
+    "revenu": 11734
+  },
+  {
+    "age": 44,
+    "experience": 23,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 47,
+    "secteur": "Informatique",
+    "ville": "Tanger",
+    "revenu": 10418
+  },
+  {
+    "age": 43,
+    "experience": 22,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 45,
+    "secteur": "Vente",
+    "ville": "Agadir",
+    "revenu": 9379
+  },
+  {
+    "age": 53,
+    "experience": 33,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 42,
+    "secteur": "Recherche",
+    "ville": "Rabat",
+    "revenu": 13540
+  },
+  {
+    "age": 44,
+    "experience": 22,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 44,
+    "secteur": "Finance",
+    "ville": "Rabat",
+    "revenu": 8830
+  },
+  {
+    "age": 37,
+    "experience": 14,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 43,
+    "secteur": "Informatique",
+    "ville": "Rabat",
+    "revenu": 9371
+  },
+  {
+    "age": 52,
+    "experience": 32,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 44,
+    "secteur": "Informatique",
+    "ville": "Agadir",
+    "revenu": 14986
+  },
+  {
+    "age": 40,
+    "experience": 18,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 48,
+    "secteur": "Finance",
+    "ville": "Rabat",
+    "revenu": 14262
+  },
+  {
+    "age": 30,
+    "experience": 10,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 43,
+    "secteur": "Éducation",
+    "ville": "Agadir",
+    "revenu": 9276
+  },
+  {
+    "age": 48,
+    "experience": 25,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 43,
+    "secteur": "Éducation",
+    "ville": "Marrakech",
+    "revenu": 10854
+  },
+  {
+    "age": 26,
+    "experience": 6,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 35,
+    "secteur": "Éducation",
+    "ville": "Agadir",
+    "revenu": 9324
+  },
+  {
+    "age": 51,
+    "experience": 28,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 46,
+    "secteur": "Industrie",
+    "ville": "Rabat",
+    "revenu": 13008
+  },
+  {
+    "age": 26,
+    "experience": 4,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 45,
+    "secteur": "Vente",
+    "ville": "Casablanca",
+    "revenu": 5679
+  },
+  {
+    "age": 53,
+    "experience": 30,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 35,
+    "secteur": "Éducation",
+    "ville": "Casablanca",
+    "revenu": 13367
+  },
+  {
+    "age": 39,
+    "experience": 18,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 50,
+    "secteur": "Informatique",
+    "ville": "Rabat",
+    "revenu": 9518
+  },
+  {
+    "age": 27,
+    "experience": 6,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 40,
+    "secteur": "Recherche",
+    "ville": "Marrakech",
+    "revenu": 6893
+  },
+  {
+    "age": 50,
+    "experience": 29,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 44,
+    "secteur": "Vente",
+    "ville": "Casablanca",
+    "revenu": 12868
+  },
+  {
+    "age": 33,
+    "experience": 10,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 37,
+    "secteur": "Vente",
+    "ville": "Tanger",
+    "revenu": 7034
+  },
+  {
+    "age": 32,
+    "experience": 9,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 44,
+    "secteur": "Recherche",
+    "ville": "Tanger",
+    "revenu": 5403
+  },
+  {
+    "age": 48,
+    "experience": 28,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 46,
+    "secteur": "Vente",
+    "ville": "Casablanca",
+    "revenu": 11446
+  },
+  {
+    "age": 23,
+    "experience": 2,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 50,
+    "secteur": "Informatique",
+    "ville": "Casablanca",
+    "revenu": 5000
+  },
+  {
+    "age": 29,
+    "experience": 8,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 40,
+    "secteur": "Industrie",
+    "ville": "Marrakech",
+    "revenu": 6989
+  },
+  {
+    "age": 46,
+    "experience": 24,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 38,
+    "secteur": "Informatique",
+    "ville": "Tanger",
+    "revenu": 9409
+  },
+  {
+    "age": 51,
+    "experience": 31,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 50,
+    "secteur": "Recherche",
+    "ville": "Marrakech",
+    "revenu": 12802
+  },
+  {
+    "age": 50,
+    "experience": 27,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 38,
+    "secteur": "Éducation",
+    "ville": "Casablanca",
+    "revenu": 10444
+  },
+  {
+    "age": 27,
+    "experience": 6,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 48,
+    "secteur": "Industrie",
+    "ville": "Rabat",
+    "revenu": 6597
+  },
+  {
+    "age": 51,
+    "experience": 28,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 35,
+    "secteur": "Industrie",
+    "ville": "Casablanca",
+    "revenu": 14721
+  },
+  {
+    "age": 38,
+    "experience": 17,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 39,
+    "secteur": "Informatique",
+    "ville": "Agadir",
+    "revenu": 12231
+  },
+  {
+    "age": 39,
+    "experience": 17,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 36,
+    "secteur": "Vente",
+    "ville": "Tanger",
+    "revenu": 11543
+  },
+  {
+    "age": 49,
+    "experience": 27,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 44,
+    "secteur": "Recherche",
+    "ville": "Tanger",
+    "revenu": 10188
+  },
+  {
+    "age": 44,
+    "experience": 21,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 38,
+    "secteur": "Informatique",
+    "ville": "Tanger",
+    "revenu": 10695
+  },
+  {
+    "age": 23,
+    "experience": 1,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 40,
+    "secteur": "Informatique",
+    "ville": "Rabat",
+    "revenu": 5000
+  },
+  {
+    "age": 32,
+    "experience": 9,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 49,
+    "secteur": "Recherche",
+    "ville": "Marrakech",
+    "revenu": 11518
+  },
+  {
+    "age": 47,
+    "experience": 26,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 46,
+    "secteur": "Informatique",
+    "ville": "Rabat",
+    "revenu": 12671
+  },
+  {
+    "age": 39,
+    "experience": 17,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 37,
+    "secteur": "Vente",
+    "ville": "Tanger",
+    "revenu": 9922
+  },
+  {
+    "age": 48,
+    "experience": 26,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 50,
+    "secteur": "Éducation",
+    "ville": "Rabat",
+    "revenu": 13785
+  },
+  {
+    "age": 28,
+    "experience": 7,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 43,
+    "secteur": "Recherche",
+    "ville": "Fès",
+    "revenu": 8315
+  },
+  {
+    "age": 49,
+    "experience": 27,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 43,
+    "secteur": "Recherche",
+    "ville": "Agadir",
+    "revenu": 12985
+  },
+  {
+    "age": 39,
+    "experience": 18,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 47,
+    "secteur": "Industrie",
+    "ville": "Casablanca",
+    "revenu": 11568
+  },
+  {
+    "age": 30,
+    "experience": 8,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 38,
+    "secteur": "Recherche",
+    "ville": "Rabat",
+    "revenu": 5000
+  },
+  {
+    "age": 49,
+    "experience": 29,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 50,
+    "secteur": "Vente",
+    "ville": "Fès",
+    "revenu": 15000
+  },
+  {
+    "age": 26,
+    "experience": 5,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 38,
+    "secteur": "Éducation",
+    "ville": "Agadir",
+    "revenu": 7671
+  },
+  {
+    "age": 41,
+    "experience": 20,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 45,
+    "secteur": "Industrie",
+    "ville": "Rabat",
+    "revenu": 12880
+  },
+  {
+    "age": 34,
+    "experience": 12,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 45,
+    "secteur": "Vente",
+    "ville": "Casablanca",
+    "revenu": 8755
+  },
+  {
+    "age": 42,
+    "experience": 20,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 35,
+    "secteur": "Finance",
+    "ville": "Casablanca",
+    "revenu": 12778
+  },
+  {
+    "age": 36,
+    "experience": 14,
+    "niveau_etude": "Master",
+    "heures_par_semaine": 43,
+    "secteur": "Éducation",
+    "ville": "Tanger",
+    "revenu": 10116
+  },
+  {
+    "age": 44,
+    "experience": 23,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 37,
+    "secteur": "Informatique",
+    "ville": "Marrakech",
+    "revenu": 11156
+  },
+  {
+    "age": 28,
+    "experience": 5,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 39,
+    "secteur": "Recherche",
+    "ville": "Tanger",
+    "revenu": 5061
+  },
+  {
+    "age": 31,
+    "experience": 11,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 49,
+    "secteur": "Finance",
+    "ville": "Casablanca",
+    "revenu": 8171
+  },
+  {
+    "age": 50,
+    "experience": 28,
+    "niveau_etude": "Doctorat",
+    "heures_par_semaine": 45,
+    "secteur": "Recherche",
+    "ville": "Rabat",
+    "revenu": 15000
+  },
+  {
+    "age": 40,
+    "experience": 20,
+    "niveau_etude": "Licence",
+    "heures_par_semaine": 36,
+    "secteur": "Finance",
+    "ville": "Agadir",
+    "revenu": 9437
+  }
+]

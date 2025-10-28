@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard Analytique</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image" href="images/analytics.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.plot.ly/plotly-3.1.0.min.js" charset="utf-8"></script>
+
+
+</head>
+<body>
+  <header>
+    <h1> Dashboard Analytique </h1>
+  </header>
+
+
+  <section class="cards">
+    <div class="card">
+        <i class="fas fa-user"></i>
+      <h2 id="Age">0</h2>
+      <p>Age Moyenne</p>
+    </div>
+    <div class="card">
+        <i class="fas fa-coins"></i>
+      <h2 id="moyenneRevenue">0</h2>
+      <p>Moyenne des Revenue (DH)</p>
+    </div>
+    <div class="card">
+        <i class="fas fa-file-invoice-dollar"></i>
+      <h2 id="Employes_par_ville">0</h2>
+      <p>Moyenne des employes par ville</p>
+    </div>
+    <div class="card">
+       <i class="fas fa-chart-bar"></i>
+      <h2 id="Employes_par_secteur">0%</h2>
+      <p>Moyenne des employes par secteur</p>
+    </div>
+  </section>
+
+<section>
+    <div class="my-grid">
+        <div class="first-grid">
+          <p>Revenue Moyenne par secteur</p><br>
+          <canvas id="mychart1"></canvas>
+        </div>
+        <div class="second-grid">
+             <div class="first-chart">
+               <canvas id="mychart2"></canvas>
+             </div>
+             <div class="second-chart">
+               <canvas id="mychart3"></canvas>
+             </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="cards2">
+    <div class="first-section">
+      <div id="model">
+        <b><h3>Prediction de salaire</h3></b>
+       <input id="txt1" placeholder="Nombre d'experience" type="text">
+       <input id="txt2" placeholder="Age" type="text">
+       <input type="button" value="calculer" onclick="func()">
+       <label>Salaire : </label>
+       <p id="predict">0</p>
+      </div>
+    </div>
+    <div class="second-section">
+      <div class="second-chart2">
+               <canvas id="mychart4"></canvas>
+             </div>
+    </div>
+  </section>
+
+ <footer>
+    <div class="social-links">
+        <a href="https://github.com/Majjati-mohammed" class="social-link"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/mohammed-majjati-aa207a268/" class="social-link"><i class="fab fa-linkedin"></i></a>
+        <a href="https://x.com/MohammedMajjati" class="social-link"><i class="fab fa-twitter"></i></a>
+                        
+    </div>
+    <p>&copy; 2025 Mohammed Majjati. Tous droits réservés.</p>
+ </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
